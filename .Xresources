@@ -1,0 +1,5 @@
+xterm*background: black
+xterm*foreground: lightgray
+URxvt*scrollBar: false
+URxvt*background: black
+URxvt*foreground: lightgray
